@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "awstut16bb88a03": {}
+      },
+      "api": {
+        "awstut1": {}
+      },
+      "storage": {
+        "itsastorage": {}
       }
     }
   }
